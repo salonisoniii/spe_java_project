@@ -36,6 +36,7 @@
                 <artifactId>spring-boot-maven-plugin</artifactId>
             </plugin>
         </plugins>
+        <finalName>spe_min_project</finalName>
     </build>
 
 </project>
